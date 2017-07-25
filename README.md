@@ -1,4 +1,8 @@
 # hello-world
 Learning all about GitHub
 
-I am applying for front-end developer jobs, and every once in a while a job post will ask for a link to my Github repository.  I'm not sure why, since Github seems to be for programming, not for web design.  Why would anyone want to see my HTML code?
+I am a front end web developer and content manager.  Most of my work is done with HTML and CSS, with the occasional PHP and JavaScript thrown in.  I've never used GitHub, although I can see how it could have been useful on some past projects.  
+
+Occasionally a recruiter will ask me for my GitHub link. So, this is it.  There's not much here right now, but I'll add more code samples as I'm able to find and restore them from my personal archives.
+
+If you would like to see my web portfolio, including links to active and archived projects, please contact me by email.
